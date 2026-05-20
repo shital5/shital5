@@ -1,4 +1,4 @@
-Hi, I'm Shital Gadhvi
+Hi, I'm Sheetal Naiya
 Flutter Developer | Mobile App Engineer
 
 Passionate Flutter developer with 6+ years of experience building scalable, high-performance mobile applications.
