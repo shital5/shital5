@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Shital Gadhvi
+Flutter Developer | Mobile App Engineer
 
-<!--
-**shital5/shital5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate Flutter developer with 6+ years of experience building scalable, high-performance mobile applications.
+Experienced in social media platforms, creator economy products, live tracking systems, BLE integrations, and modern mobile architectures.
+About Me
+ 6+ years of experience in Flutter & Mobile Development
+ Worked on production-level applications at Adintors Pvt. Ltd.
+⚡ Experienced with:
+Social media features
+Creator & campaign platforms
+Live tracking systems
+Push notifications
+Reels/video feed
+Real-time engagement features
+BLE & IoT connectivity
+Strong understanding of scalable app architecture & clean code
+Goal: International remote/on-site opportunities
