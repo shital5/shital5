@@ -74,7 +74,7 @@ Instagram-integrated platform for brands to discover creators and manage influen
 ---
 
 ### 2️⃣ **PRSSB** - Demat Investment Portfolio Management
-**Role**: Flutter Developer | Finance Module Development  
+**Role**: Android/ios Developer | Finance Module Development  
 **Domain**: Fintech & Investment Management
 
 Comprehensive demat account and investment portfolio management application.
@@ -88,6 +88,9 @@ Comprehensive demat account and investment portfolio management application.
 - 🔔 **Market Alerts** - Real-time stock price notifications
 - 📱 **Multi-device Sync** - Seamless sync across Android & iOS
 
+**Links:**
+- 🍎 [App Store](https://apps.apple.com/in/app/1click-by-pravin-ratilal/id1004980805)
+- 🤖 [Play Store](https://play.google.com/store/apps/details?id=nt.prssb&hl=en)
 **Technologies Used:**
 - Flutter, Dart, Firebase, Firestore, SQLite
 - Real-time data streaming, secure API communication
@@ -112,6 +115,7 @@ AI-powered platform connecting athletes with college scholarship opportunities.
 
 **Links:**
 - 🍎 [App Store](https://apps.apple.com/in/app/pac-hub/id1658990593)
+- 🤖 [Play Store](https://play.google.com/store/apps/details?id=com.pachub&hl=en)
 
 **Technologies Used:**
 - Flutter, Dart, Firebase, Firestore
@@ -135,6 +139,10 @@ Digital pharmacy platform for prescription management and medication ordering.
 - 💬 **Pharmacist Chat** - Consult with pharmacists for medication advice
 - 📋 **Order History** - Comprehensive prescription and order history
 
+**Links:**
+- 🍎 [App Store](https://apps.apple.com/in/app/farmacias-punto-farma/id6450374254)
+- 🤖 [Play Store](https://play.google.com/store/apps/details?id=com.farma&hl=en)
+- 
 **Technologies Used:**
 - Flutter, Dart, Firebase, Firestore
 - Payment gateway integration, SMS/email notifications
@@ -178,6 +186,10 @@ Enterprise-grade ERP solution for supply chain optimization and customer relatio
 - 🔔 **Automated Alerts** - Stock levels, delivery status, lead updates
 - 📱 **Mobile Access** - On-the-go supply chain and customer management
 - 🔐 **Role-based Access** - Multi-user access with permission management
+
+- **Links:**
+- 🍎 [App Store](https://apps.apple.com/in/app/delight-erp/id1528935445)
+- - 🤖 [Play Store](https://play.google.com/store/apps/details?id=com.delightcrm&hl=en)
 
 **Technologies Used:**
 - Flutter, Dart, SQLite, PostgreSQL
