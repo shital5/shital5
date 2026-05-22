@@ -10,7 +10,7 @@ Passionate and experienced Flutter developer with 6+ years of expertise in build
 
 ### Flutter & Mobile Development
 - **6+ years** of hands-on experience in Flutter and native mobile development
-- **7+ production applications** deployed and live on App Store & Play Store
+- **Production applications** deployed and live on App Store & Play Store
 - Strong foundation in **clean architecture** and **SOLID principles**
 - Expertise in building **feature-rich, high-performance applications** across diverse domains
 
@@ -74,7 +74,7 @@ Instagram-integrated platform for brands to discover creators and manage influen
 ---
 
 ### 2️⃣ **PRSSB** - Demat Investment Portfolio Management
-**Role**: Android/ios Developer | Finance Module Development  
+**Role**: Android/iOS Developer | Finance Module Development  
 **Domain**: Fintech & Investment Management
 
 Comprehensive demat account and investment portfolio management application.
@@ -91,6 +91,7 @@ Comprehensive demat account and investment portfolio management application.
 **Links:**
 - 🍎 [App Store](https://apps.apple.com/in/app/1click-by-pravin-ratilal/id1004980805)
 - 🤖 [Play Store](https://play.google.com/store/apps/details?id=nt.prssb&hl=en)
+
 **Technologies Used:**
 - Flutter, Dart, Firebase, Firestore, SQLite
 - Real-time data streaming, secure API communication
@@ -142,7 +143,7 @@ Digital pharmacy platform for prescription management and medication ordering.
 **Links:**
 - 🍎 [App Store](https://apps.apple.com/in/app/farmacias-punto-farma/id6450374254)
 - 🤖 [Play Store](https://play.google.com/store/apps/details?id=com.farma&hl=en)
-- 
+
 **Technologies Used:**
 - Flutter, Dart, Firebase, Firestore
 - Payment gateway integration, SMS/email notifications
@@ -187,9 +188,9 @@ Enterprise-grade ERP solution for supply chain optimization and customer relatio
 - 📱 **Mobile Access** - On-the-go supply chain and customer management
 - 🔐 **Role-based Access** - Multi-user access with permission management
 
-- **Links:**
+**Links:**
 - 🍎 [App Store](https://apps.apple.com/in/app/delight-erp/id1528935445)
-- - 🤖 [Play Store](https://play.google.com/store/apps/details?id=com.delightcrm&hl=en)
+- 🤖 [Play Store](https://play.google.com/store/apps/details?id=com.delightcrm&hl=en)
 
 **Technologies Used:**
 - Flutter, Dart, SQLite, PostgreSQL
@@ -198,7 +199,7 @@ Enterprise-grade ERP solution for supply chain optimization and customer relatio
 
 ---
 
-## 📱 Production Apps - Live Stats
+## 📱 Production Apps
 
 | App | Platform | Domain | Status |
 |-----|----------|--------|--------|
@@ -264,20 +265,26 @@ Seeking **international remote/on-site opportunities** to leverage 6+ years of e
 ## 📱 Connect With Me
 
 - **GitHub**: [shital5](https://github.com/shital5)
-- **Email**: gadhvishital94@gmail.com
-- **LinkedIn**: [Add Your LinkedIn Profile]
-- **Portfolio**: [Add Your Portfolio Website]
+- **Email**: sheetalnaiya94@gmail.com
+- **LinkedIn**: [Sheetal Naiya](https://www.linkedin.com/in/sheetal-naiya-0877a3112/)
+- **Portfolio**: [GitHub Profile](https://github.com/shital5)
 
 **My Live Apps:**
 - 📲 [Adintors - App Store](https://apps.apple.com/in/app/adintors/id6752635260)
 - 📲 [Adintors - Play Store](https://play.google.com/store/apps/details?id=com.adintors.app&hl=en&pli=1)
 - 📲 [Pac Hub - App Store](https://apps.apple.com/in/app/pac-hub/id1658990593)
+- 📲 [Pac Hub - Play Store](https://play.google.com/store/apps/details?id=com.pachub&hl=en)
+- 📲 [PRSSB - App Store](https://apps.apple.com/in/app/1click-by-pravin-ratilal/id1004980805)
+- 📲 [PRSSB - Play Store](https://play.google.com/store/apps/details?id=nt.prssb&hl=en)
+- 📲 [Pharma Punto - App Store](https://apps.apple.com/in/app/farmacias-punto-farma/id6450374254)
+- 📲 [Pharma Punto - Play Store](https://play.google.com/store/apps/details?id=com.farma&hl=en)
+- 📲 [Delight ERP - App Store](https://apps.apple.com/in/app/delight-erp/id1528935445)
+- 📲 [Delight ERP - Play Store](https://play.google.com/store/apps/details?id=com.delightcrm&hl=en)
 
 ---
 
 ## 📊 Portfolio Highlights
 
-- **Production Apps**: 6 live applications on App Store & Play Store
 - **Years of Experience**: 6+ years in mobile development
 - **Platforms**: iOS, Android
 - **Domains**: Creator Economy, Fintech, Sports Tech, Healthcare, AgriTech, Enterprise
