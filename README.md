@@ -207,7 +207,7 @@ Enterprise-grade ERP solution for supply chain optimization and customer relatio
 ---
 
 ### 7️⃣ **MA 48** - Vienna Municipal Waste Management
-**Role**: Flutter Developer | Government App Development  
+**Role**: Native Android Developer | Government App Development  
 **Domain**: Government & Municipal Services  
 **Region**: 🇦🇹 Austria (Vienna) - Available on Austrian App Store & Play Store
 
@@ -227,7 +227,7 @@ Official municipal waste management app for Vienna, Austria. MA 48 (Magistratsab
 - 🤖 [Play Store (Austria)](https://play.google.com/store/apps/details?id=at.gv.wien.ma48)
 
 **Technologies Used:**
-- Flutter, Dart, Firebase, Firestore
+- Native Java (Android), Kotlin, XML
 - Maps integration for location services, push notifications
 - Real-time data synchronization, offline support
 - Government-grade security compliance
@@ -244,7 +244,7 @@ Official municipal waste management app for Vienna, Austria. MA 48 (Magistratsab
 | **Pharma Punto** | iOS, Android | Healthcare | 🇪🇺 Europe | 🟢 Live |
 | **Abhof** | iOS, Android | AgriTech | 🇩🇪 Germany | 🟢 Live |
 | **Delight ERP** | iOS, Android | Enterprise | 🇮🇳 India | 🟢 Live |
-| **MA 48** | iOS, Android | Government | 🇦🇹 Austria | 🟢 Live |
+| **MA 48** | Android | Government | 🇦🇹 Austria | 🟢 Live |
 
 ---
 
@@ -282,7 +282,7 @@ Official municipal waste management app for Vienna, Austria. MA 48 (Magistratsab
 ✅ GPS & Location Services  
 ✅ AI/ML Integration & Matching Algorithms  
 ✅ Analytics & Advanced Dashboards  
-✅ Offline Data Synchronization  
+�� Offline Data Synchronization  
 ✅ Government-grade Security Compliance  
 
 ### Development Practices
