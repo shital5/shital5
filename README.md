@@ -23,6 +23,7 @@ Passionate and experienced Flutter developer with 6+ years of expertise in build
 - **Sports & Scholarship Matching** - Advanced matching algorithms, athlete profiling
 - **Enterprise Solutions** - ERP systems, supply chain management, CRM features
 - **Healthcare & Pharmacy** - Prescription management, medication ordering, compliance
+- **Government & Municipal Apps** - Waste management, public services, citizen engagement
 - **Video Features** - Reels, video feeds, live streaming capabilities
 - **Chat & Messaging** - Real-time messaging, conversation management, media sharing
 - **Push Notifications** - Firebase Cloud Messaging, smart notification strategies
@@ -31,7 +32,7 @@ Passionate and experienced Flutter developer with 6+ years of expertise in build
 
 #### 🔧 Technical Skills
 - **Languages**: Dart, Java, Kotlin, Swift, JavaScript
-- **Frameworks**: Flutter, Firebase, GetX, Bloc, Provider
+- **Frameworks**: Flutter, Firebase, GetX, Bloc, Provider, Native Android/iOS
 - **Databases**: Firestore, Realm, SQLite, PostgreSQL
 - **APIs & Services**: RESTful APIs, GraphQL, Firebase services
 - **State Management**: GetX, Bloc, Riverpod, Provider
@@ -49,7 +50,8 @@ Passionate and experienced Flutter developer with 6+ years of expertise in build
 
 ### 1️⃣ **Adintors** - Creator Discovery & Campaign Management
 **Role**: Flutter Developer | Full-Stack App Development  
-**Domain**: Creator Economy & Social Media Marketing
+**Domain**: Creator Economy & Social Media Marketing  
+**Region**: India
 
 Instagram-integrated platform for brands to discover creators and manage influencer campaigns.
 
@@ -74,8 +76,9 @@ Instagram-integrated platform for brands to discover creators and manage influen
 ---
 
 ### 2️⃣ **PRSSB** - Demat Investment Portfolio Management
-**Role**: Android/iOS Developer | Finance Module Development  
-**Domain**: Fintech & Investment Management
+**Role**: Native Android/iOS Developer | Finance Module Development  
+**Domain**: Fintech & Investment Management  
+**Region**: India
 
 Comprehensive demat account and investment portfolio management application.
 
@@ -93,15 +96,16 @@ Comprehensive demat account and investment portfolio management application.
 - 🤖 [Play Store](https://play.google.com/store/apps/details?id=nt.prssb&hl=en)
 
 **Technologies Used:**
-- Flutter, Dart, Firebase, Firestore, SQLite
-- Real-time data streaming, secure API communication
-- Advanced charting libraries, financial calculations
+- Native Java (Android), Swift (iOS)
+- Secure API communication, advanced charting libraries
+- Financial calculations, real-time data streaming
 
 ---
 
 ### 3️⃣ **Pac-Hub** - Athlete-College Scholarship Matching Platform
 **Role**: Flutter Developer | Feature Development  
-**Domain**: Sports Technology & Education
+**Domain**: Sports Technology & Education  
+**Region**: USA
 
 AI-powered platform connecting athletes with college scholarship opportunities.
 
@@ -127,7 +131,8 @@ AI-powered platform connecting athletes with college scholarship opportunities.
 
 ### 4️⃣ **Pharma Punto** - Pharmacy Ordering & Prescription Management
 **Role**: Flutter Developer | Full-Stack Development  
-**Domain**: Healthcare & E-commerce
+**Domain**: Healthcare & E-commerce  
+**Region**: Europe
 
 Digital pharmacy platform for prescription management and medication ordering.
 
@@ -153,7 +158,8 @@ Digital pharmacy platform for prescription management and medication ordering.
 
 ### 5️⃣ **Abhof** - Farmer-to-Buyer Agricultural Marketplace
 **Role**: Flutter Developer | Marketplace Development  
-**Domain**: Agriculture & E-commerce
+**Domain**: Agriculture & E-commerce  
+**Region**: 🇩🇪 Germany (Available on German App Store & Play Store)
 
 Direct marketplace connecting farmers with buyers for fresh agricultural products.
 
@@ -175,7 +181,8 @@ Direct marketplace connecting farmers with buyers for fresh agricultural product
 
 ### 6️⃣ **Delight ERP** - Supply Chain & Customer Service Management
 **Role**: Flutter Developer | ERP Module Development  
-**Domain**: Enterprise Resource Planning
+**Domain**: Enterprise Resource Planning  
+**Region**: India
 
 Enterprise-grade ERP solution for supply chain optimization and customer relationship management.
 
@@ -199,16 +206,45 @@ Enterprise-grade ERP solution for supply chain optimization and customer relatio
 
 ---
 
+### 7️⃣ **MA 48** - Vienna Municipal Waste Management
+**Role**: Flutter Developer | Government App Development  
+**Domain**: Government & Municipal Services  
+**Region**: 🇦🇹 Austria (Vienna) - Available on Austrian App Store & Play Store
+
+Official municipal waste management app for Vienna, Austria. MA 48 (Magistratsabteilung 48) is the official municipal department responsible for waste management, street cleaning, and the vehicle fleet in Vienna.
+
+**Key Features Implemented:**
+- 🗑️ **Waste Collection Schedule** - Real-time trash collection pickup schedules
+- ♻️ **Recycling Information** - Comprehensive recycling guidelines and centers
+- 📍 **Recycling Center Locator** - Find nearest waste disposal and recycling centers
+- 🔔 **Collection Notifications** - Smart reminders for waste pickup days
+- 📞 **Service Requests** - Report issues and request street cleaning services
+- 🏪 **48er-Tandler Integration** - Information about second-hand shops
+- 🚛 **Vehicle Fleet Services** - Information about municipal services
+
+**Links:**
+- 🍎 [App Store (Austria)](https://apps.apple.com/at/app/die-48er/id574812025)
+- 🤖 [Play Store (Austria)](https://play.google.com/store/apps/details?id=at.gv.wien.ma48)
+
+**Technologies Used:**
+- Flutter, Dart, Firebase, Firestore
+- Maps integration for location services, push notifications
+- Real-time data synchronization, offline support
+- Government-grade security compliance
+
+---
+
 ## 📱 Production Apps
 
-| App | Platform | Domain | Status |
-|-----|----------|--------|--------|
-| **Adintors** | iOS, Android | Creator Economy | 🟢 Live |
-| **PRSSB** | iOS, Android | Fintech | 🟢 Live |
-| **Pac-Hub** | iOS, Android | Sports Tech | 🟢 Live |
-| **Pharma Punto** | iOS, Android | Healthcare | 🟢 Live |
-| **Abhof** | iOS, Android | AgriTech | 🟢 Live |
-| **Delight ERP** | iOS, Android | Enterprise | 🟢 Live |
+| App | Platform | Domain | Region | Status |
+|-----|----------|--------|--------|--------|
+| **Adintors** | iOS, Android | Creator Economy | 🇮🇳 India | 🟢 Live |
+| **PRSSB** | iOS, Android | Fintech | 🇮🇳 India | 🟢 Live |
+| **Pac-Hub** | iOS, Android | Sports Tech | 🇺🇸 USA | 🟢 Live |
+| **Pharma Punto** | iOS, Android | Healthcare | 🇪🇺 Europe | 🟢 Live |
+| **Abhof** | iOS, Android | AgriTech | 🇩🇪 Germany | 🟢 Live |
+| **Delight ERP** | iOS, Android | Enterprise | 🇮🇳 India | 🟢 Live |
+| **MA 48** | iOS, Android | Government | 🇦🇹 Austria | 🟢 Live |
 
 ---
 
@@ -216,7 +252,8 @@ Enterprise-grade ERP solution for supply chain optimization and customer relatio
 
 ### Mobile Development
 ✅ Flutter & Dart Expertise  
-✅ iOS & Android Development  
+✅ Native Android Development (Java, Kotlin)  
+✅ Native iOS Development (Swift)  
 ✅ Complex UI/UX Implementation  
 ✅ App Performance Optimization  
 ✅ Custom Widgets & Components  
@@ -235,6 +272,7 @@ Enterprise-grade ERP solution for supply chain optimization and customer relatio
 ✅ **Healthcare**: HIPAA compliance, prescription management  
 ✅ **Enterprise**: ERP systems, complex workflows  
 ✅ **Social/Creator**: Real-time features, engagement algorithms  
+✅ **Government**: Municipal services, public sector applications, compliance  
 
 ### Advanced Features
 ✅ Video Streaming & Encoding  
@@ -245,6 +283,7 @@ Enterprise-grade ERP solution for supply chain optimization and customer relatio
 ✅ AI/ML Integration & Matching Algorithms  
 ✅ Analytics & Advanced Dashboards  
 ✅ Offline Data Synchronization  
+✅ Government-grade Security Compliance  
 
 ### Development Practices
 ✅ Clean Architecture & SOLID Principles  
@@ -253,12 +292,13 @@ Enterprise-grade ERP solution for supply chain optimization and customer relatio
 ✅ Agile & CI/CD Practices  
 ✅ App Store Optimization  
 ✅ Security Best Practices  
+✅ Cross-platform Development (Flutter, Native)  
 
 ---
 
 ## 🌍 Objective
 
-Seeking **international remote/on-site opportunities** to leverage 6+ years of expertise in building production-grade mobile applications across diverse domains, and contribute to innovative, scalable projects.
+Seeking **international remote/on-site opportunities** to leverage 6+ years of expertise in building production-grade mobile applications across diverse domains and geographic regions, and contribute to innovative, scalable projects.
 
 ---
 
@@ -280,15 +320,18 @@ Seeking **international remote/on-site opportunities** to leverage 6+ years of e
 - 📲 [Pharma Punto - Play Store](https://play.google.com/store/apps/details?id=com.farma&hl=en)
 - 📲 [Delight ERP - App Store](https://apps.apple.com/in/app/delight-erp/id1528935445)
 - 📲 [Delight ERP - Play Store](https://play.google.com/store/apps/details?id=com.delightcrm&hl=en)
+- 📲 [MA 48 - App Store (Austria)](https://apps.apple.com/at/app/die-48er/id574812025)
+- 📲 [MA 48 - Play Store (Austria)](https://play.google.com/store/apps/details?id=at.gv.wien.ma48)
 
 ---
 
 ## 📊 Portfolio Highlights
 
 - **Years of Experience**: 6+ years in mobile development
-- **Platforms**: iOS, Android
-- **Domains**: Creator Economy, Fintech, Sports Tech, Healthcare, AgriTech, Enterprise
-- **Key Technologies**: Flutter, Firebase, Payment Gateways, Real-time Databases, AI/ML
+- **Platforms**: iOS, Android, Flutter, Native Development
+- **Regions**: India, USA, Europe, Germany, Austria
+- **Domains**: Creator Economy, Fintech, Sports Tech, Healthcare, AgriTech, Enterprise, Government
+- **Key Technologies**: Flutter, Firebase, Native Android/iOS, Payment Gateways, Real-time Databases, AI/ML
 - **Code Quality**: Clean Architecture, SOLID Principles, Comprehensive Testing
 
 ---
